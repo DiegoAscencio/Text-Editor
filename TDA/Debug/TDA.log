@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (TDA.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  SLL.c
+c:\users\diego\desktop\estructuras\editortexto\tda\sll.c(6): warning C4013: 'malloc' sin definir; se supone que extern devuelve como resultado int
+c:\users\diego\desktop\estructuras\editortexto\tda\sll.c(18): warning C4013: 'free' sin definir; se supone que extern devuelve como resultado int
+  Queue.c
+c:\users\diego\desktop\estructuras\editortexto\tda\queue.c(5): warning C4013: 'malloc' sin definir; se supone que extern devuelve como resultado int
+c:\users\diego\desktop\estructuras\editortexto\tda\queue.c(22): warning C4013: 'free' sin definir; se supone que extern devuelve como resultado int
+  DLL.c
+  Archivos.c
+c:\users\diego\desktop\estructuras\editortexto\tda\archivos.c(80): warning C4013: 'gets' sin definir; se supone que extern devuelve como resultado int
+  Generando código...
+c:\users\diego\desktop\estructuras\editortexto\tda\queue.c(23): warning C4716: 'DestroyQueue': debe devolver un valor
+c:\users\diego\desktop\estructuras\editortexto\tda\sll.c(58): warning C4716: 'Atras': debe devolver un valor
+  TDA.vcxproj -> C:\Users\Diego\Desktop\Estructuras\EditorTexto\Debug\Editor_TDA.lib
